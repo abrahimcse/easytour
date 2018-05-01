@@ -172,8 +172,6 @@ Welcome <%=session.getAttribute("email")%>
         <option>SYLHET</option>
         <option>GAZIPUR</option>
     </select>
-</div>
-<div>
     <form name="Bus" action="buscheck" method="POST">
     <input type="submit" value="Bus" name="ButtonBus" /> </form>
    
